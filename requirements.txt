@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-mcp-adapters
+langgraph
+pydantic
+tavily-python

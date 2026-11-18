@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.playwright-mcp/
+research_results.json
+snapshot_example_com.yml
